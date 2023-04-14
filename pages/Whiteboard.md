@@ -8,13 +8,10 @@ alias:: Whiteboards
   #+END_NOTE
 - # Usage
 	- [[Whiteboards]] is a toggleable feature that can be activated in [[Settings]] under the `Features` tab.
-	  collapsed:: true
-		- ![CleanShot 2022-11-25 at 12.34.56@2x.png](../assets/CleanShot_2022-11-25_at_12.34.56@2x_1669376306119_0.png)
+		- ![image.png](../assets/image_1681440724196_0.png){:height 412, :width 716}
 	- Once activated the [[Whiteboard]] feature can primarily be reached via the [[Left sidebar]] with a new menu item called `Whiteboards`.
-	  collapsed:: true
 		- ![CleanShot 2022-09-22 at 13.47.20@2x.png](../assets/CleanShot_2022-09-22_at_13.47.20@2x_1663847562670_0.png){:height 402, :width 326}
 	- New whiteboards can currently be created in 3 different ways:
-	  collapsed:: true
 		- [[Whiteboard/Dashboard]]
 		  collapsed:: true
 			- The tile in the top left of the dashboard grid always allows you to create a new whiteboard.
@@ -33,7 +30,6 @@ alias:: Whiteboards
 				- ![CleanShot 2022-09-22 at 14.03.19.gif](../assets/CleanShot_2022-09-22_at_14.03.19_1663848305202_0.gif)
 	- Once you've created a whiteboard, you get an empty [[Whiteboard/Canvas]]. These are some of the things you can do:
 		- You can give your Whiteboard a [[Title]] by clicking in the input field in the top left corner.
-		  collapsed:: true
 			- ![CleanShot 2022-09-22 at 14.24.18.gif](../assets/CleanShot_2022-09-22_at_14.24.18_1663849476516_0.gif)
 			  id:: 6380a818-a9dc-45ac-934b-fc3064509304
 		- You can use the [[Toolbar]] to interact with the canvas and add elements like blocks, pages, and images to it. You can also directly draw on the canvas. These are the current [[Tools]] :
@@ -60,7 +56,6 @@ alias:: Whiteboards
 		- Whiteboards are a special type of page. You can find them in-app in the [Whiteboards dashboard]([[Whiteboard/Dashboard]]) and [[All pages]] overview.
 	- A Whiteboard has a [[Whiteboard/Canvas]]. On that canvas, you can create any of the objects in [[Whiteboard/Object]].
 	- Currently, there's limited support for [[Whiteboard embeds]]. We plan to expand this functionality in later versions of [[Whiteboards]].
-	  collapsed:: true
 	  id:: 63e277f7-93ec-428c-9b36-019ca17dce1e
 		- When referencing a [[Whiteboard]] in the outliner by its [[Title]], you will see a Whiteboard icon show up at the front of the link. Hovering that link shows you an abstracted preview of the whiteboard.
 			- ![CleanShot 2022-09-22 at 17.44.08.gif](../assets/CleanShot_2022-09-22_at_17.44.08_1663861685052_0.gif)
